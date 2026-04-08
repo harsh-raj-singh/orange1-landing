@@ -1,6 +1,6 @@
 {
-  "name": "sandbox-website-template",
-  "description": "A template for building a React application with Vite, Hono, and Cloudflare Workers",
+  "name": "orange1-landing",
+  "description": "Landing page and deployment shell for Orange1, an AI assistant with graph memory.",
   "private": true,
   "dependencies": {
     "@ai-sdk/openai": "^3.0.7",
