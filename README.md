@@ -58,6 +58,8 @@ The repo includes placeholders for:
 
 The landing page CTA currently points to a hosted chat demo URL in `src/web/pages/index.tsx`. For production use, that should be replaced with a stable Orange1 application URL or made environment-configurable.
 
+The landing page also embeds Saarthi from `https://saarthi-kappa-flame.vercel.app` by default. Override the shared voice-guide deployment with `VITE_SAARTHI_ORIGIN`.
+
 ## Project Structure
 
 ```text
